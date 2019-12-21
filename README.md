@@ -1,4 +1,4 @@
-# PentahoTutorial
+# PentahoTutorials
 This project hosts all resources developed during my Pentaho Tutorials.
 
 1. PentahoTutorialForIntermediateLevelUsers:
